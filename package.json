@@ -24,7 +24,7 @@
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
     "@babel/register": "^7.9.0",
-    "babel-jest": "^24.9.0",
+    "babel-jest": "^29.7.0",
     "babel-loader": "^8.0.5",
     "html-webpack-plugin": "^5.5.0",
     "jest": "^27.5.1",
